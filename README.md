@@ -1,2 +1,2 @@
 # mysql
-Query implementations for MySQL concepts
+Query implementations for MySQL concepts updated
